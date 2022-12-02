@@ -1,0 +1,6 @@
+browser-sync start --server --files "css/*.css, *.html, js/*.js"
+
+git remote add origin "ssh "
+git remote -v проверить привязан локальный репозиторий
+git remote remove origin удалить привязку 
+git add .
